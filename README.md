@@ -1,4 +1,4 @@
-# George_Rodrigo
-Microverse Trials
+# Tribute Page Exercice
+Responcibe web design
 
 Tribute Page HTML & CSS Exercise
